@@ -1,0 +1,14 @@
+{
+    "accuracy": 0.88,
+    "classification_report": "              precision    recall  f1-score   support\n\n        Fire     0.8276    0.9600    0.8889        25\n    Non_Fire     0.9524    0.8000    0.8696        25\n\n    accuracy                         0.8800        50\n   macro avg     0.8900    0.8800    0.8792        50\nweighted avg     0.8900    0.8800    0.8792        50\n",
+    "confusion_matrix": [
+        [
+            24,
+            1
+        ],
+        [
+            5,
+            20
+        ]
+    ]
+}
